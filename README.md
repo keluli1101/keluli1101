@@ -6,7 +6,7 @@
 
 - 🔭 I just graduate from **University of Toronto**
 
-- 🤝 I’m looking for job in **data or deep learning** 
+- 🤝 I’m looking for job in **data or deep learning**
 
 - 👨‍💻 My LinkedIn [www.linkedin.com/in/kelu-li-92b227255](www.linkedin.com/in/kelu-li-92b227255)
 
