@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keluli1101&label=Profile%20views&color=0e75b6&style=flat" alt="keluli1101" /> </p>
 
-- 🔭 I just graduate from **University of Toronto**
+- 🔭 I just graduate from **University of Toronto** 
 
 - 🤝 I’m looking for job in **data or deep learning**
 
