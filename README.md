@@ -10,7 +10,7 @@
 
 - 👨‍💻 My LinkedIn [www.linkedin.com/in/kelu-li-92b227255](www.linkedin.com/in/kelu-li-92b227255)
 
-- 📫 How to reach me **keluli1101@gmail.com**
+- 📫 How to reach me **eloise.li1101@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
